@@ -1,6 +1,6 @@
-# openhab
+# openHAB
 
-Install script to install OpenHab and Habmin
+Install script to install OpenHab (http://www.openhab.org/) and Habmin
 
 ## References
 * http://www.instructables.com/id/openHAB-Admin-Console-HABmin-on-Raspberry-Pi/step3/Installation-Option-2-alternative/
