@@ -32,8 +32,8 @@ if [ ! -d "$TMP_DIR" ]; then
   mkdir $TMP_DIR
 fi
 
-#apt-get update
-#apt-get upgrade
+apt-get update
+apt-get upgrade
 
 cd /opt/openhab
 
